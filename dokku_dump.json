@@ -1,0 +1,1 @@
+[{"name":"app1","VHOST":"www.app1.com\napp1.com\nsubdomain.app1.com","ENV":"export APP_1_KEY1='APP_1_KEY1_VALUE'\nexport APP_1_KEY2='APP_1_KEY2_VALUE'"},{"name":"app2","VHOST":"www.app2.com\napp2.com\nsubdomain.app2.com","ENV":"export APP_2_KEY1='APP_2_KEY1_VALUE'\nexport APP_2_KEY2='APP_2_KEY2_VALUE'"}]
